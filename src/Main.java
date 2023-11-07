@@ -7,6 +7,6 @@ public class Main {
         int temp = scanner.nextInt();
 
         System.out.println(temp * 2);
-        //asdasdasd
+
     }
 }
